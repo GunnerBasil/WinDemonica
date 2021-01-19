@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Audio Vis</title>
+    <style>
+      body {
+        background-image: url("./pandemonica.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+
+      canvas {
+        /* background: red; */
+        margin: auto;
+
+        position: absolute;
+        bottom: 20px;
+        left: 0;
+        right: 25px;
+      }
+    </style>
+    <script defer src="render2.js"></script>
+  </head>
+  <body>
+    <!-- <h1>Hello World!</h1>
+    We are using Node.js <span id="node-version"></span>,
+    Chromium <span id="chrome-version"></span>,
+    and Electron <span id="electron-version"></span>. -->
+
+    <!-- You can also require other files to run in this process -->
+  <!-- <script src="./renderer.js"></script> -->
+    <!-- <center> -->
+    <!-- <audio id="source" src="vitality.mp3"></audio> -->
+    <canvas id="output" height="500" width="1000"></canvas>
+    <!-- </center> -->
+  </body>
+</html>

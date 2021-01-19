@@ -1,0 +1,52 @@
+{
+  "name": "music-vis-bg",
+  "version": "1.0.0",
+  "description": "A background app and audio visualizer for Windows 10",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "author": "Basil",
+  "license": "ISC",
+  "nvm": "15.6.0",
+  "devDependencies": {
+    "electron": "^11.2.0",
+    "electron-builder": "^22.9.1",
+    "electron-packager": "^15.2.0"
+  },
+  "buildOLD": {
+    "appId": "wallpaper",
+    "category": "wallpaper.music.visualizer",
+    "dmg": {
+      "contents": [
+        {
+          "x": 110,
+          "y": 150
+        },
+        {
+          "x": 240,
+          "y": 150,
+          "type": "link",
+          "path": "/Applications"
+        }
+      ]
+    },
+    "linux": {
+      "target": [
+        "AppImage",
+        "deb"
+      ]
+    },
+    "win": {
+      "target": "NSIS"
+    }
+  },
+  "build": {
+    "appId": "dev.gbasil.wallpaper",
+    "win": {
+      "target": "nsis",
+      "icon": "build/icon.ico"
+    }
+ }
+}

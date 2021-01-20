@@ -34,6 +34,8 @@ The icons are a little harder to do. For every app that you want, make a new sho
 
 For the audio visulizer wallpaper, it's just an exe that displays an image and an audio visualizer. You can run the `setup.exe` file in the `music-visualizer` folder to install it as a desktop app, or use the .exe in the `unpacked` folder as a standalone file. To set it up to launch at boot, you make a shortcut to the app or .exe and place it in your startup folder, which you can access by typing `%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup` in the file explorer. Now, everytime you boot up, the shortcut will be executed and the app will launch. Your desktop icons will not show thow, since it's a window that you can't click on that would be over the desktop.
 
+The Visual Studio Code theme is pretty easy to install. Move the `vscode-theme` folder to `.vscode\extensions` in your home folder. Then, restart Visual Studio Code and open the command panel (Ctrl+Shift+P). Type `Preferences: Color Theme`, and then switch your theme to "Pandemonica."
+
 ![AppData Location](screenshots/appdata.png)
 
 The Spotify theme requires [spicetify-cli](https://github.com/khanhas/spicetify-cli). Follow the install instructions for spicetify, and once you have it installed, place the `Pandemonica Spicetify` folder into `.spicetify/Themes` (rename it to just "Pandemonica" and use that as the theme name), select the theme in `.spicetify/config.ini` and run `spicetify apply` in the terminal you installed it from.

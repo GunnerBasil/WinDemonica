@@ -1,0 +1,21 @@
+{
+    "name": "pandemonica-color-theme",
+    "displayName": "Pandemonica Color Theme",
+    "description": "A reddish color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pandemonica",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pandemonica-color-theme.json"
+            }
+        ]
+    }
+}

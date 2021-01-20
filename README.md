@@ -70,3 +70,4 @@ Plot twist; I don't. I switched to Terminus after pulling my hair out and inevit
 - [ ] Make install script (Java for the extra luls)
 - [ ] Chrome theme, just changing color, *maybe* logo
 - [ ] Figure out vscode themes, make that from pywal
+- [ ] OBS skin

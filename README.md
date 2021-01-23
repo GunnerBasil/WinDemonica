@@ -1,7 +1,10 @@
 ![Banner](readme_resources/banner.png)
-# ☕ My Windows 10 Theme
+# ☕ Pandemonica - A Windows 10 Theme
 
-I've recently played Helltaker and loved it, so I decided to theme my desktop in a matching way.
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/GunnerBasil/WinDemonica?color=%23f0394b)
+![GitHub all releases](https://img.shields.io/github/downloads/GunnerBasil/WinDemonica/total?color=%23f0394b)
+
+I've recently played Helltaker, so I decided to theme my desktop in a way to match it, all for free :D
 
 
 # ![Features](readme_resources/features.png)
@@ -70,6 +73,6 @@ Plot twist; I don't. I switched to Terminus after pulling my hair out and inevit
 - [ ] Balance & Brighten the colors of the terminal icon
 - [ ] Change the size of the inner circle for the Chrome icon
 - [ ] Make install script (Java for the extra luls)
-- [ ] Chrome theme, just changing color, *maybe* logo
+- [x] Chrome theme, just changing color, *maybe* logo
 - [x] Figure out vscode themes, make that from pywal
 - [ ] OBS skin

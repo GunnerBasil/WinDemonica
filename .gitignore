@@ -1,3 +1,4 @@
 release/
 release.zip
-music-visualizer-electron/node_modules
+resources/music-visualizer-electron/node_modules
+resources/music-visualizer-electron/.vscode

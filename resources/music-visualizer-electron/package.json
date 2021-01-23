@@ -48,5 +48,5 @@
       "target": "nsis",
       "icon": "build/icon.ico"
     }
- }
+  }
 }

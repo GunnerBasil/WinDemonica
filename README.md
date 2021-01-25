@@ -73,7 +73,8 @@ Plot twist; I don't. I switched to Terminus after pulling my hair out and inevit
 - [ ] Balance & Brighten the colors of the terminal icon
 - [ ] Change the size of the inner circle for the Chrome icon
 - [ ] Make install script (Java for the extra luls)
-- [x] Chrome theme, just changing color, *maybe* logo
+- [ ] Chrome theme, just changing color, *maybe* logo
 - [x] Figure out vscode themes, make that from pywal
 - [ ] OBS skin
 - [ ] Powershell theme install instructions + add to release
+- [ ] Mod Assistant theme

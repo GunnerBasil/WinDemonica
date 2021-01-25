@@ -65,7 +65,7 @@ This theme was made for a computer with a resolution of 2560 x 1440, so I might 
 
 ### You said the Windows Terminal app can't have a custom icon, so why do you have it?
 
-Plot twist; I don't. I switched to Terminus after pulling my hair out and inevitabely realising that it just wasn't possible, and it just looked better on Terminus than a red colored version of its logo.
+Plot twist; I don't. I switched to Terminus after pulling my hair out and inevitably realising that it just wasn't possible, and it just looked better on Terminus than a red colored version of its logo.
 
 
 # ![Todo (or forget)](readme_resources/todo.png)

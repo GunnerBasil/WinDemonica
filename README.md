@@ -1,4 +1,4 @@
-![Banner](readme_resources/banner.png)
+![Banner](readme_resources/banner_v2.png)
 # ☕ Pandemonica - A Windows 10 Theme
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/GunnerBasil/WinDemonica?color=%23f0394b)
@@ -76,3 +76,4 @@ Plot twist; I don't. I switched to Terminus after pulling my hair out and inevit
 - [x] Chrome theme, just changing color, *maybe* logo
 - [x] Figure out vscode themes, make that from pywal
 - [ ] OBS skin
+- [ ] Powershell theme install instructions + add to release

@@ -3,7 +3,7 @@
 
 # ☕ Pandemonica - A Windows 10 Theme
 
-[Screenshots] • [Features](#features) • [Installation](#installation) • [Extras](#extras) • [FAQ](#faq)
+[Screenshots](https://github.com/GunnerBasil/WinDemonica/blob/master/screenshots.md) • [Features](#features) • [Installation](#installation) • [Extras](#extras) • [FAQ](#faq)
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/GunnerBasil/WinDemonica?color=%23f0394b)
 ![GitHub all releases](https://img.shields.io/github/downloads/GunnerBasil/WinDemonica/total?color=%23f0394b)

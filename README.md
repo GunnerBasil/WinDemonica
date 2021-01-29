@@ -1,4 +1,4 @@
-![Banner](images/readme/banner_v2.png)
+![Banner](images/readme/banner.png)
 <div align="center">
 
 # ☕ Pandemonica - A Windows 10 Theme
@@ -11,7 +11,7 @@
 </div>
 
 
-# ![Features](images/readme/features2.png)
+# ![Features](images/readme/features.png)
 
 - 🔴 10+ icons remastered in glorious, red svg
 - 🎶 Custom audio visualizer wallpaper on boot built with Electron
@@ -28,7 +28,7 @@
 - ModAssistant (Beat Saber modding utility)
 
 
-# ![Installation](images/readme/installation2.png)
+# ![Installation](images/readme/installation.png)
 
 Sadly there isn't an install script, so you'll have to do this manually :/ (For now)
 
@@ -57,7 +57,7 @@ Move the file `pandemonica.mat` into your theme directory, which you can find in
 ![ModAssistant Theme Setting](images/screenshots/modassistant_settings.png)
 
 
-# ![Extras](images/readme/extras2.png)
+# ![Extras](images/readme/extras.png)
 
 HyperX Keyboard Preset
 
@@ -66,7 +66,7 @@ HyperX Keyboard Preset
 Import `keyboard.hxp` (located in the `extras` folder) into Ngenuity, which is the HyperX RGB software.
 
 
-# ![FAQ](images/readme/faq2.png)
+# ![FAQ](images/readme/faq.png)
 
 ### The audio visualizer is so slooooow
 
@@ -81,7 +81,7 @@ This theme was made for a computer with a resolution of 2560 x 1440, so I might 
 Plot twist; I don't. I switched to Terminus after pulling my hair out and inevitably realising that it just wasn't possible, and it just looked better on Terminus than a red colored version of its logo.
 
 
-# ![Todo (or forget)](images/readme/todo2.png)
+# ![Todo (or forget)](images/readme/todo.png)
 
 - [ ] Balance & Brighten the colors of the terminal icon
 - [ ] Change the size of the inner circle for the Chrome icon

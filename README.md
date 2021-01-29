@@ -3,7 +3,7 @@
 
 # ☕ Pandemonica - A Windows 10 Theme
 
-[Screenshots](https://github.com/GunnerBasil/WinDemonica/blob/master/screenshots.md) • [Features](#features) • [Installation](#installation) • [Extras](#extras) • [FAQ](#faq)
+[Screenshots](https://github.com/GunnerBasil/WinDemonica/blob/master/screenshots.md) • [Features](#features) • [Installation](#installation) • [Extras](#extras) • [FAQ](#faq) • [Support](#support)
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/GunnerBasil/WinDemonica?color=%23f0394b)
 ![GitHub all releases](https://img.shields.io/github/downloads/GunnerBasil/WinDemonica/total?color=%23f0394b)
@@ -91,3 +91,16 @@ Plot twist; I don't. I switched to Terminus after pulling my hair out and inevit
 - [ ] OBS skin
 - [ ] Powershell theme install instructions + add to release
 - [x] Mod Assistant theme
+
+# ![Support](images/readme/support.png)
+
+DISCLAIMER: I didn't make any of these sprites (duh), go check out [@Vanripper](https://twitter.com/vanripperart).
+
+Like what you see? Want to continue support development?
+
+- ⭐️ Star [WinDemonica](https://github.com/GunnerBasil/WinDemonica) on GitHub and appear down below
+- 🐕 DogeCoin: `DT5x3uYum5tsXMHx1Nt9uYfAocd2tK643S`
+- 🔹 Etherium: `0xFeDD9ed1a988Bc8e002aCE54dDe6F2f93C0e730E`
+- 🦁 Send a tip with Brave browser, on [the Github](https://github.com/GunnerBasil/WinDemonica)
+
+[![Stargazers](https://reporoster.com/stars/GunnerBasil/WinDemonica)](https://github.com/GunnerBasil/WinDemonica/stargazers)
